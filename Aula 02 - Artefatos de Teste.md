@@ -1,4 +1,6 @@
-# 🏦 **Artefatos de Teste para um Aplicativo Bancário**  
+# Aula 2 - Artefatos de Teste
+
+## 🏦 Artefatos de Teste para um Aplicativo Bancário  
 
 Imagine que uma equipe de desenvolvimento está criando um **app bancário** que permite:  
 
